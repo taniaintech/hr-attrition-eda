@@ -1,7 +1,7 @@
 # Exploratory Data Analysis: HR Attrition
 
 By: Tania Green  
-[LinkedIn](https://www.linkedin.com/in/taniagreen03/) • [Portfolio](https://taniagreen03.github.io/) • [GitHub](https://github.com/taniagreen03)
+[LinkedIn](https://www.linkedin.com/in/taniagreen03/) • [Portfolio](https://taniaintech.github.io/) • [GitHub](https://github.com/taniaintech)
 
 ---
 
